@@ -1,1 +1,2 @@
-CONSOLE.LOG('hOLA MUNDO')
+let nombre = 'sansil'
+console.log('hOLA MUNDO, soy '+ nombre);
